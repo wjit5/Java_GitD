@@ -8,8 +8,6 @@ public class Users {
 	String user_state;
 	String user_flag;
 	
-	
-	
 	public Integer getId() {
 		return id;
 	}
